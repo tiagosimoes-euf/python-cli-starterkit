@@ -36,3 +36,7 @@ instance/
 
 # SQLite3 files
 *.db
+
+# Temporary files
+tmp/
+!tmp/.gitkeep
