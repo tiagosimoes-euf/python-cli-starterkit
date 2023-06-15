@@ -38,5 +38,5 @@ instance/
 *.db
 
 # Temporary files
-tmp/
+tmp/*
 !tmp/.gitkeep
